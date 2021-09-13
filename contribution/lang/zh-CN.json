@@ -2363,7 +2363,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"skippingPlayerCount"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "加速 ${skippingPlayerCount。用户..",
+ 	 	 	 	 	"trans": "加速 ${skippingPlayerCount}用户..",
  	 	 	 	 	"eng": "Accelerating ${skippingPlayerCount} users.."
  	 	 	 	}
  	 	 	},
